@@ -15,7 +15,6 @@
 | [Combat Roll](https://modrinth.com/mod/combat-roll) | 1.20.1 | Both | Yes |
 | [Elytra Slot](https://modrinth.com/mod/elytra-slot) | 1.20.1 | Both | Yes |
 | [Elytra Trims](https://modrinth.com/mod/elytra-trims) | 1.20.1 | Both | Yes |
-| [Extra Alchemy](https://modrinth.com/mod/extraalchemy) | 1.20.1 | Both | Yes |
 | [Gravestones](https://modrinth.com/mod/gravestones) | 1.20.1 | Both | Yes |
 | [Charm of Undying](https://modrinth.com/mod/charm-of-undying) | 1.20.1 | Both | Yes |
 | [Progressive Archery](https://modrinth.com/mod/progressive-archery) | 1.20.1 | Both | Yes |
@@ -36,12 +35,9 @@
 | [Fabric Seasons: Extra](https://modrinth.com/mod/fabric-seasons-extras) | 1.20.1 | Both | Yes |
 | [Fabric Seasons: Terralith](https://modrinth.com/mod/fabric-seasons-terralith-compat) | 1.20.1 | Both | Yes |
 | [Guard Villagers](https://modrinth.com/mod/guard-villagers-(fabricquilt)) | 1.20.1 | Both | Yes |
-| [Jobs Addon](https://modrinth.com/mod/jobsaddon) | 1.20.1 | Both | Yes |
-| [Levelz](https://modrinth.com/mod/levelz) | 1.20.1 | Both | Yes |
 | [Mythic mounts](https://modrinth.com/mod/mythic-mounts) | 1.20.1 | Both | Yes |
 | [Naturalist](https://modrinth.com/mod/naturalist) | 1.20.1 | Both | Yes |
 | [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul) | 1.20.1 | Both | Yes |
-| [Party Addon](https://modrinth.com/mod/partyaddon) | 1.20.1 | Both | Yes |
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 | Both | Yes |
 | [RPG Difficulty](https://modrinth.com/mod/patchouli) | 1.20.1 | Both | Yes |
 | [RPGZ](https://modrinth.com/mod/rpgz) | 1.20.1 | Both | Yes |
